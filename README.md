@@ -1,2 +1,2 @@
 # WebsitePenjualanFurnitureMebel
-Silahkan download database (.sql) lalu import
+Silahkan buat database sesuai dengan kebutuhan
