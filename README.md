@@ -1,2 +1,2 @@
 # WebsitePenjualanFurnitureMebel
-PHP
+Silahkan download database (.sql) lalu import
